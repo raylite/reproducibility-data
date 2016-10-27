@@ -1,9 +1,9 @@
 import csv
 
 
-con = "path/to/2004_TREC_ASCII_MEDLINE_2"
+con = "path/to/2004_TREC_ASCII_MEDLINE_x"
 
-outcon = "path/to/trec_ASCII_2.csv"
+outcon = "path/to/output_file.csv"
 
 text = {"PMID": "PMID", "Title": "Title", "Abstract": "Abstract", "MeSH": "MeSH", "PT": "Pub Type"}
 
